@@ -49,6 +49,6 @@ Key Learnings
 
 Conclusion
 
-Today I learned how prompt quality directly affects AI-generated results and why Prompt Engineering is important.
+
 
 Today I learned how prompt quality directly affects AI-generated results and why Prompt Engineering is important.
