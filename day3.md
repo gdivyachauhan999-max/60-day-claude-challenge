@@ -205,15 +205,6 @@ When you're stuck in an interview — narrate your thinking out loud. Say "I'm t
 
 What's your current stack and experience level? I can give you a much more specific roadmap from there.
 
-## Comparison
-- Normal: General advice
-- Founder: Focus on business value and networking
-- Developer: Focus on coding and technical skills
-
-## Learnings
-- Same question gives different answers based on persona.
-- Role-based prompting helps get more targeted responses.
-
 
 ## Comparison:
 
