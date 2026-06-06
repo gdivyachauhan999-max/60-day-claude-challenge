@@ -14,9 +14,12 @@ Optimize my resume using Claude AI and improve ATS compatibility.
 - Created ATS-friendly one-page resume
 
   ## Original resume
-  <img width="1920" height="1080" alt="Screenshot 2026-06-03 194759" src="https://github.com/user-attachments/assets/f45dd9a4-f0a8-4237-9412-df0baa299468" />
-<img width="1920" height="1080" alt="Screenshot 2026-06-03 194742" src="https://github.com/user-attachments/assets/428fac84-451d-4c94-a799-5328d651b509" />
+
 [Divya Resume.pdf](https://github.com/user-attachments/files/28669102/Divya.Resume.pdf)
+<img width="1920" height="1080" alt="Screenshot 2026-06-04 115709" src="https://github.com/user-attachments/assets/016a82d4-1a56-4b5d-85fb-cac6aa581a08" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-04 115657" src="https://github.com/user-attachments/assets/06b0a24f-4b82-4e42-b59c-3ff9053aefb0" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-04 115646" src="https://github.com/user-attachments/assets/01944db0-d894-47be-82cc-a7d3d2bc3eb6" />
+
 
 ## Modified resume
 [Divya_Chauhan_Resume (1).pdf](https://github.com/user-attachments/files/28669119/Divya_Chauhan_Resume.1.pdf)
