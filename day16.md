@@ -36,7 +36,6 @@ Compared the following companies:
 
 ## Screenshots
 <img width="1920" height="1080" alt="Screenshot 2026-06-16 124638" src="https://github.com/user-attachments/assets/fb7c15f5-2214-4a0f-a2a8-c91b3374646a" />
-<img width="1920" height="1020" alt="Screenshot 2026-06-16 124708" src="https://github.com/user-attachments/assets/925775b8-fb8b-4163-ad01-806ecc5b59ed" />
 <img width="1920" height="1020" alt="Screenshot 2026-06-16 124751" src="https://github.com/user-attachments/assets/1130e5cf-5a06-4dd2-8714-7191e253ac2d" />
 <img width="1920" height="1020" alt="Screenshot 2026-06-16 124801" src="https://github.com/user-attachments/assets/6c3ba284-e7d8-4465-8c28-9800038e8f99" />
 <img width="1920" height="1020" alt="Screenshot 2026-06-16 124814" src="https://github.com/user-attachments/assets/c71d5d82-e1aa-47bb-97d7-739aa7f7c417" />
