@@ -54,7 +54,7 @@ $1.5 Million
 
 No Offer / Waitlist
 
-## bReason
+## Reason
 
 The concept showed promise but required further validation and clearer unit economics before investors could commit.
 
