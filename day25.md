@@ -60,6 +60,7 @@ The concept showed promise but required further validation and clearer unit econ
 
 ## Score Breakdown
 -Category                       -Score
+
 -Market Potential               -65/100
 
 -Innovation                      -70/100
