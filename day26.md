@@ -38,7 +38,6 @@ Successfully generated, tested, and documented the Prior Authorization Workflow 
 <img width="1920" height="1020" alt="Screenshot 2026-06-26 125755" src="https://github.com/user-attachments/assets/f7d070bb-2157-42d6-b378-1b4ad092c620" />
 <img width="1920" height="1020" alt="Screenshot 2026-06-26 125803" src="https://github.com/user-attachments/assets/25b37776-b217-4877-a926-3d89df3c6295" />
 <img width="1920" height="1020" alt="Screenshot 2026-06-26 125815" src="https://github.com/user-attachments/assets/cd482486-9949-4bf1-8c1b-7d2904161fe4" />
-<img width="1920" height="1020" alt="Screenshot 2026-06-26 125825" src="https://github.com/user-attachments/assets/8b0113c8-f6c4-4320-802c-377b61a92a65" />
 <img width="1920" height="1020" alt="Screenshot 2026-06-26 125835" src="https://github.com/user-attachments/assets/c1a23206-cfdb-4ea7-8721-cde78f6f30db" />
 <img width="1920" height="1020" alt="Screenshot 2026-06-26 125851" src="https://github.com/user-attachments/assets/aaab4352-b4ae-4a72-883a-ff0cd223a7b9" />
 <img width="1920" height="1020" alt="Screenshot 2026-06-26 125859" src="https://github.com/user-attachments/assets/547e13a0-0601-47e5-901a-3c0d0cc387fc" />
