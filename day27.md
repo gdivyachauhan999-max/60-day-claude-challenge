@@ -45,8 +45,6 @@ Successfully completed the Prior Authorization Story Simulator and explored mult
 <img width="1920" height="1020" alt="Screenshot 2026-06-27 122919" src="https://github.com/user-attachments/assets/105b0e5f-ff0f-4bf6-9830-6d4735a2573f" />
 <img width="1920" height="1020" alt="Screenshot 2026-06-27 122932" src="https://github.com/user-attachments/assets/6b14afdc-2ac1-4d7e-9a28-dba77627496c" />
 <img width="1920" height="1020" alt="Screenshot 2026-06-27 123025" src="https://github.com/user-attachments/assets/40e1115a-5dda-4a1e-b93b-78dde17c603f" />
-<img width="1920" height="1020" alt="Screenshot 2026-06-27 123117" src="https://github.com/user-attachments/assets/db548391-ea56-4968-9e52-5f271f1e65ec" />
-
 
 
 
