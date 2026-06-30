@@ -98,6 +98,9 @@ the entire supply chain may be affected.
 ## 🎯 Outcome
 Successfully built and tested an AI-generated Supply Chain Builder simulator using Claude AI, explored different optimization strategies, analyzed business trade-offs, 
 and documented the complete learning process in GitHub.
+
+[supply_chain_optimizer.html](https://github.com/user-attachments/files/29506400/supply_chain_optimizer.html)
+
 <img width="1920" height="1020" alt="Screenshot 2026-06-30 113136" src="https://github.com/user-attachments/assets/7bc0b829-7166-4919-a297-116aea13c8e5" />
 <img width="1920" height="1020" alt="Screenshot 2026-06-30 113145" src="https://github.com/user-attachments/assets/3fea06c7-c8ab-4ee1-8d5b-3896728ec8d9" />
 <img width="1920" height="1020" alt="Screenshot 2026-06-30 113245" src="https://github.com/user-attachments/assets/d0096d90-ec31-48f6-b8c4-d4d4a24527bf" />
