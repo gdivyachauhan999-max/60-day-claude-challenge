@@ -1,4 +1,4 @@
-[index.html](https://github.com/user-attachments/files/29539899/index.html)# Day 31 – AI Supply Chain Control Tower
+# Day 31 – AI Supply Chain Control Tower
 
 ## Objective
 Built and tested an AI-powered Supply Chain Control Tower simulation using Claude AI. The objective was to monitor operational alerts, prioritize incidents,
@@ -43,9 +43,7 @@ requiring quick decision-making to minimize business impact.
 - Simulations are valuable for understanding supply chain risk management.
 
 ---
-
-[Uploading[supply_chain_optimizer.html](https://github.com/user-attachments/files/29539901/supply_chain_optimizer.html) index.html…]()
-
+[index.html](https://github.com/user-attachments/files/29539899/index.html)
 
 ## Screenshots
 - Start Screen
