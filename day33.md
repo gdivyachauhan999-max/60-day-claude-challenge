@@ -1,4 +1,4 @@
-[index.html](https://github.com/user-attachments/files/29624367/index.html)[index.html](https://github.com/user-attachments/files/29624350/index.html)## Day 33 – Media Integrity Analyzer
+## Day 33 – Media Integrity Analyzer
 
 ## 📌 Overview
 Today, I built and explored the Media Integrity Analyzer, an interactive HTML application generated using Claude AI.
