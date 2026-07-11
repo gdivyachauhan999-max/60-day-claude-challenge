@@ -130,6 +130,7 @@ and the project was uploaded to GitHub.
 <img width="1920" height="1020" alt="Screenshot 2026-07-11 122450" src="https://github.com/user-attachments/assets/ad26435c-8a92-4894-bee3-f66e5ec293a2" />
 <img width="1920" height="1020" alt="Screenshot 2026-07-11 123705" src="https://github.com/user-attachments/assets/cbeab9b1-e041-471f-b50a-76db2bc9c843" />
 <img width="1920" height="1020" alt="Screenshot 2026-07-11 123817" src="https://github.com/user-attachments/assets/526b0923-db00-483f-870a-a93ee6e30486" />
+<img width="1920" height="1020" alt="Screenshot 2026-07-11 123913" src="https://github.com/user-attachments/assets/eff9b123-c210-4f57-ade4-d8391a53c9ac" />
 <img width="1920" height="1020" alt="Screenshot 2026-07-11 123934" src="https://github.com/user-attachments/assets/fe0882fa-1531-417d-be8e-0c7500b7c567" />
 <img width="1920" height="1020" alt="Screenshot 2026-07-11 124004" src="https://github.com/user-attachments/assets/c584ab08-df2d-409b-8752-e44d58f51666" />
 <img width="1920" height="1020" alt="Screenshot 2026-07-11 124015" src="https://github.com/user-attachments/assets/278e45a7-9ef4-4dcc-981e-99b85ee1a5fd" />
