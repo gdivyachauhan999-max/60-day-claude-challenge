@@ -288,10 +288,11 @@ This planning phase has provided a strong foundation for building a resume-worth
 ---
 
 [PrepAI_PRD.pdf](https://github.com/user-attachments/files/30216182/PrepAI_PRD.pdf)
+---
 [PrepAI_Implementation_Blueprint.md](https://github.com/user-attachments/files/30216195/PrepAI_Implementation_Blueprint.md)
+---
 [PrepAI_Pitch_Deck.pdf](https://github.com/user-attachments/files/30216207/PrepAI_Pitch_Deck.pdf)
-
-
+---
 <img width="1920" height="1020" alt="Screenshot 2026-07-21 120057" src="https://github.com/user-attachments/assets/74aae9bd-153f-435f-8efb-a1588d563749" />
 <img width="1920" height="1020" alt="Screenshot 2026-07-21 120115" src="https://github.com/user-attachments/assets/fdf54a70-51f0-4cef-927a-3723551e17a2" />
 <img width="1920" height="1020" alt="Screenshot 2026-07-21 120128" src="https://github.com/user-attachments/assets/8db6c903-3b35-4f45-a17e-84e2b97edca5" />
