@@ -67,7 +67,7 @@ and aligned with the defined v1.0 scope.
 ## GitHub Repository
 
 PrepAI Repository:
-
+https://github.com/gdivyachauhan999-max/prepai
 
 ---
 
@@ -96,11 +96,17 @@ Ready to Begin Development.
 ## Screenshots
 
 [ARCHITECTURE.md](https://github.com/user-attachments/files/30257539/ARCHITECTURE.md)
+---
 [SCHEMA.md](https://github.com/user-attachments/files/30257542/SCHEMA.md)
+---
 [API.md](https://github.com/user-attachments/files/30257548/API.md)
+---
 [UI-WIREFRAMES.md](https://github.com/user-attachments/files/30257551/UI-WIREFRAMES.md)
+---
 [PROJECT-STRUCTURE.md](https://github.com/user-attachments/files/30257555/PROJECT-STRUCTURE.md)
+---
 [PROJECT-LOG.md](https://github.com/user-attachments/files/30257559/PROJECT-LOG.md)
+---
 
 <img width="1920" height="1020" alt="Screenshot 2026-07-22 122305" src="https://github.com/user-attachments/assets/7756840f-477a-44b8-8c7e-bce5cab2fe0e" />
 <img width="1920" height="1020" alt="Screenshot 2026-07-22 113146" src="https://github.com/user-attachments/assets/ec3f7d3b-295b-4c83-8095-807fa7d1debd" />
