@@ -225,9 +225,15 @@ The project is fully prepared for authentication development and user-facing fea
 
  ---
 
- [SETUP.md](https://github.com/user-attachments/files/30332657/SETUP.md)
+ [SETUP.md](https://github.com/user-attachments/files/30332657/SETUP.md) 
+ ---
 [ENVIRONMENT.md](https://github.com/user-attachments/files/30332658/ENVIRONMENT.md)
+---
 [PROJECT-STRUCTURE_1.md](https://github.com/user-attachments/files/30332659/PROJECT-STRUCTURE_1.md)
+---
 [DAY3-SUMMARY.md](https://github.com/user-attachments/files/30332663/DAY3-SUMMARY.md)
+---
 [PrepAI_Implementation_Blueprint_v2.md](https://github.com/user-attachments/files/30332665/PrepAI_Implementation_Blueprint_v2.md)
+---
 [PROJECT-LOG_1.md](https://github.com/user-attachments/files/30332667/PROJECT-LOG_1.md)
+---
